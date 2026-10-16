@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube on TV Launcher",
+  "version": "1.0.0",
+  "description": "One click to open YouTube on TV (youtube.com/tv).",
+  "permissions": [
+    "tabs"
+  ],
+  "action": {
+    "default_title": "Launch YouTube on TV"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
