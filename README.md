@@ -1,7 +1,6 @@
 # YouTube on TV Launcher
 
-A Chrome/Edge (Manifest V3) extension. Click the toolbar icon to open
-YouTube on TV (https://www.youtube.com/tv?oxrt=true&oxe=%5B%5D#/).
+A Chrome/Edge (Manifest V3) extension. Click the toolbar icon to open.
 If a YouTube TV tab is already open, it is focused instead of opening a new one.
 
 ## Install
